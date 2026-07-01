@@ -36,6 +36,6 @@
 
 <p align="center">
   <a href="https://discord.com/users/1277015383877881856">
-    <img src="https://lanyard.cnrad.dev/api/1277015383877881856?theme=dark&bg=00000000"/>
+    <img src="https://dispresence.onrender.com/api/presence/1277015383877881856/card.svg?template=stack&_t=1782930398875"/>
   </a>
 </p>
